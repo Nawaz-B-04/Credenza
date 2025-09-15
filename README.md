@@ -1,3 +1,6 @@
+#  FullStack Intern Coding Challenge – Roxiler Systems  
+Candidate: Nawazish Majid Bidiwale  
+
 # 🗄️ Credenza
 
 A full-stack web application for managing stores, users, and ratings. Supports **Admin** and **User** roles, with role-specific dashboards and functionalities.
@@ -19,6 +22,7 @@ A full-stack web application for managing stores, users, and ratings. Supports *
 - View list of all users and stores:
   - Users: Name, Email, Address, Role
   - Stores: Name, Email, Address, Average Rating
+  - Columns are sortable: Click the arrow on any column to sort in ascending or descending order.
 - Filter users/stores by name, email, address, or role.
 - Logout securely.
 
